@@ -23,7 +23,7 @@ Version: 1.0 Release date: 2024-XX-XX
 - Once MATLAB Online is open, select the tick box and click "Save and Open"
 - The app will automatically download and ask you to install
 - Once installed, click on the "Apps" tab on the top toolbar
-- Click once on "HyTwin" to open the online app
+- Click once on "HyTwin_academic" to open the online app
 - Drag-drop patient files (in .csv) to the current path then hit browse
 - You can manually adjust screen size based on your screen resolution (zoom out)
 - You can add the app to favourites for faster access by clicking on the star
