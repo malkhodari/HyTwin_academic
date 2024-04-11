@@ -1,4 +1,3 @@
-![image](https://github.com/malkhodari/HyTwin_academic/assets/62998803/1b500dc1-0b9f-407b-bdf7-74678188b928)# HyTwin Academic
 ### HyTwin: AI-enabled tool for estimating hypertension severity and progression trajectory using multi-modality measurements
 
 #### Mohanad Alkhodari, Winok Lapidaire, Turkay Kart, Ahsan Khandoker, Abhirup Banerjee, Paul Leeson
