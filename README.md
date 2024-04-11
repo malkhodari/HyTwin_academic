@@ -11,7 +11,7 @@ Version: 1.0 Release date: 2024-XX-XX
 
 ###### Contact: mohanad.alkhodari@rdm.ox.ac.uk, winok.lapidaire@cardiov.ox.ac.uk, abhirup.banerjee@eng.ox.ac.uk, paul.leeson@cardiov.ox.ac.uk
 
-<img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/a174e420-c62b-4b95-98ac-d0e6b67fac4e" width="80%" height="80%">
+<img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/4ef672ac-0dcd-4178-bfe6-e68c0f46a601" width="80%" height="80%">
 
 ## For online use
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/HyTwin&file=HyTwin.mlappinstall)
