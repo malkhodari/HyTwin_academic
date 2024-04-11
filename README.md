@@ -1,4 +1,4 @@
-# HyTwin Academic
+![image](https://github.com/malkhodari/HyTwin_academic/assets/62998803/1b500dc1-0b9f-407b-bdf7-74678188b928)# HyTwin Academic
 ### HyTwin: AI-enabled tool for estimating hypertension severity and progression trajectory using multi-modality measurements
 
 #### Mohanad Alkhodari, Winok Lapidaire, Turkay Kart, Ahsan Khandoker, Abhirup Banerjee, Paul Leeson
@@ -41,5 +41,5 @@ Version: 1.0 Release date: 2024-XX-XX
 ```
 
 ## Learn more about us
-https://www.rdm.ox.ac.uk/about/our-clinical-facilities-and-mrc-units/cardiovascular-clinical-research-facility
+https://www.rdm.ox.ac.uk/study-with-us/supervisor-profiles/leeson-group
 https://eng.ox.ac.uk/multimedia/multimedia-people/
