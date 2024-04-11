@@ -14,7 +14,7 @@ Version: 1.0 Release date: 2024-XX-XX
 <img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/4ef672ac-0dcd-4178-bfe6-e68c0f46a601" width="80%" height="80%">
 
 ## For online use
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/HyTwin&file=HyTwin_academic.mlappinstall)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/HyTwin_academic&file=HyTwin_academic.mlappinstall)
 
 ```
 - Create a free MathWorks account or use an existing account (no license required)
