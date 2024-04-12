@@ -8,7 +8,7 @@
 
 Version: 1.0 Release date: 2024-XX-XX
 
-###### Contact: mohanad.alkhodari@rdm.ox.ac.uk, winok.lapidaire@cardiov.ox.ac.uk, abhirup.banerjee@eng.ox.ac.uk, paul.leeson@cardiov.ox.ac.uk
+###### Contact: mohanad.alkhodari@rdm.ox.ac.uk, winok.lapidaire@cardiov.ox.ac.uk, turkay.kart@cardiov.ox.ac.uk, abhirup.banerjee@eng.ox.ac.uk, paul.leeson@cardiov.ox.ac.uk
 
 <img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/4ef672ac-0dcd-4178-bfe6-e68c0f46a601" width="80%" height="80%">
 
