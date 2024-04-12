@@ -12,7 +12,19 @@ Version: 1.0 Release date: 2024-XX-XX
 
 <img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/4ef672ac-0dcd-4178-bfe6-e68c0f46a601" width="80%" height="80%">
 
-## For online use
+## Usage instructions
+```
+- Input dataset should be arranged to match the data provided in this example (demographics.csv and multimodality.csv)
+- Once loading the demographics.csv file, the tool will arrange the multimodality.csv based on Patient ID (row-wise)
+- The tool checks for missing variables in the dataset (please make sure to have all variables available)
+- Missing values will be imputed automatically using the big data (UKBiobank) at te back-end of the tool
+- Run the trajectory inference to estimate HyperScores and predict the proper trajectory for each patient
+- The overall analysis of the input dataset will be visualized on the right panel
+- The user has the option to visualize the analysis for each patient separately as well
+- Once done, the user can export all results (table and figures) as .csv and .png, respectively
+```
+
+## For online installation
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/HyTwin_academic&file=HyTwin_academic.mlappinstall)
 
 ```
@@ -28,7 +40,7 @@ Version: 1.0 Release date: 2024-XX-XX
 - You can add the app to favourites for faster access by clicking on the star
 ```
 
-## For stand-alone use (.exe)
+## For stand-alone installation (.exe)
 [<img src="hyperlink2.png" width="16.35%" height="16.35%">
 ](https://kudrive.ku.ac.ae/no-shib/index.php/s/IQ9oFX6vEPk4BLS/download)
 
