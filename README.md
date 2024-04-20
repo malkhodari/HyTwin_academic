@@ -42,7 +42,7 @@ Version: 1.0 Release date: 2024-XX-XX
 
 ## For stand-alone installation (.exe)
 [<img src="hyperlink2.png" width="16.35%" height="16.35%">
-](https://kudrive.ku.ac.ae/no-shib/index.php/s/rkasNdOglZp1Zp4/download)
+](https://kudrive.ku.ac.ae/no-shib/index.php/s/rpcGYZheu5TdXax/download)
 
 ```
 - Download HyTwin_academic.exe on your Windows computer and run the installer (no MATLAB required)
