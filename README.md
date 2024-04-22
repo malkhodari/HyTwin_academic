@@ -4,7 +4,7 @@
 ##### Cardiovascular Clinical Research Facility (CCRF), Division of Cardiovascular Medicine, University of Oxford, United Kingdom
 ##### Institute of Biomedical Engineering (IBME), Department of Engineering Science, University of Oxford, United Kingdom
 
-###### Publication: doi.org/10.10.10.10 (pending)
+###### Publication: https://ieeexplore.ieee.org/document/10385558
 
 Version: 1.0 Release date: 2024-XX-XX
 
