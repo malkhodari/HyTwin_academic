@@ -19,6 +19,7 @@ Version: 1.0 Release date: 2024-XX-XX
 - Ensure the inclusion of at least the UK Biobank variable id, i.e., 12338, in the name of each variable
 - Variable names will be edited automatically to match with the built-in names within the tool, i.e., X12338_2_0
 - The tool checks for missing variables in the dataset (please make sure to have all variables available!)
+- The tool runs with missing variables, however, it would be more accurate if all variables were provided!
 - Missing values will be imputed automatically using the big data (UKBiobank) at the back-end of the tool
 - Run the trajectory inference to estimate HyperScores and predict the proper trajectory for each patient
 - The overall analysis of the input dataset will be visualized on the right panel
