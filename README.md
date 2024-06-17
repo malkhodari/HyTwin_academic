@@ -16,8 +16,8 @@ Version: 1.0 Release date: 2024-XX-XX
 ```
 - Input dataset should be arranged to match the data provided in this example (demographics.csv and multimodality.csv)
 - Once loading the demographics.csv file, the tool will arrange the multimodality.csv based on Patient IDs (row-wise)
-- Ensure the inclusion of at least the UK Biobank variable id, _i.e._, 12338, in the name of each variable
-- Variable names will be edited automatically to match with the built-in names within the tool, _i.e._, X12338_2_0
+- Ensure the inclusion of at least the UK Biobank variable id, *i.e.*, 12338, in the name of each variable
+- Variable names will be edited automatically to match with the built-in names within the tool, *i.e.*, X12338_2_0
 - The tool checks for missing variables in the dataset (please make sure to have all variables available!)
 - Missing values will be imputed automatically using the big data (UKBiobank) at the back-end of the tool
 - Run the trajectory inference to estimate HyperScores and predict the proper trajectory for each patient
