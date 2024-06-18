@@ -6,7 +6,7 @@
 
 ###### Publication: https://ieeexplore.ieee.org/document/10385558
 
-Version: 1.1 Release date: 2024-XX-XX
+Version: 1.1 Release date: 2024-06-18
 
 ###### Contact: mohanad.alkhodari@rdm.ox.ac.uk, winok.lapidaire@cardiov.ox.ac.uk, turkay.kart@cardiov.ox.ac.uk, abhirup.banerjee@eng.ox.ac.uk, paul.leeson@cardiov.ox.ac.uk
 
