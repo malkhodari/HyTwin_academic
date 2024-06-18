@@ -34,6 +34,9 @@ Version: 1.1 Release date: 2024-06-18
 ```
 - Input dataset should be arranged to match the data provided in this example (demographics.csv and multimodality.csv)
 - Once loading the demographics.csv file, the tool will arrange the multimodality.csv based on Patient IDs (row-wise)
+- If no Patient IDs are provided, they will be refered to as numbers, i.e., 1, 2, 3, ... etc
+- If Patient IDs are provided on one of the .csv files only, the other will be assumed to follow the same order
+- The tool works with missing demographic variables, however, they will be replaced by NaN
 - Ensure the inclusion of at least the UK Biobank variable id, i.e., 12338, in the name of each variable
 - Variable names will be edited automatically to match with the built-in names within the tool, i.e., X12338_2_0
 - The tool checks for missing variables in the dataset (please make sure to have all variables available!)
