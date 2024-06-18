@@ -12,6 +12,10 @@ Version: 1.1 Release date: 2024-06-18
 
 <img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/4ef672ac-0dcd-4178-bfe6-e68c0f46a601" width="80%" height="80%">
 
+<img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/e0370adb-f55e-416e-bf8f-9d5e19e2647c" width="80%" height="80%">
+
+<img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/0a13f680-4ef1-4366-bb87-f3c65f14bb09" width="80%" height="80%">
+
 ## Details on hypertension modelling
 ```
 - Hypertension is a serious medical condition that affects over a billion people worldwide
@@ -25,10 +29,6 @@ Version: 1.1 Release date: 2024-06-18
 - The built-in model was developed using a large participating cohort from the UK Biobank database (n=27,099) with over 500 imaging/non-imaging variables from multiple modalities.
 - It is based on a semi-supervised machine learning approach; the contrastive trajectory inference (cTI)
 ```
-
-<img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/e0370adb-f55e-416e-bf8f-9d5e19e2647c" width="80%" height="80%">
-
-<img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/0a13f680-4ef1-4366-bb87-f3c65f14bb09" width="80%" height="80%">
 
 ## Usage instructions
 ```
