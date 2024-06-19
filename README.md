@@ -1,4 +1,4 @@
-### HyTwin: AI-enabled tool for estimating hypertension severity and progression trajectory using multi-modality measurements
+### HyTwin Academic: AI-enabled tool for estimating hypertension severity and progression trajectory using multi-modality measurements
 
 #### Mohanad Alkhodari, Winok Lapidaire, Turkay Kart, Abhirup Banerjee, Paul Leeson
 ##### Cardiovascular Clinical Research Facility (CCRF), Division of Cardiovascular Medicine, University of Oxford, United Kingdom
