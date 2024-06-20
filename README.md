@@ -48,6 +48,18 @@ Version: 1.1 Release date: 2024-06-18
 - Once done, the user can export all results (table and figures) as .csv and .png, respectively
 ```
 
+## For Webapp use
+
+[<img src="hyperlink3.png" width="16.35%" height="16.35%">
+](https://conr8019jf97.share.zrok.io/webapps/home/session.html?app=HyTwin_academic)
+
+```
+- Open the link and wait for the tool to be loaded
+- Use the tool simply by inserting inputs directly in their specified location 
+- The webapp does not support pop-up windows (if any), use the log button to view messages
+- You can keep refreshing the log to update the messages
+```
+
 ## For online installation
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/HyTwin_academic&file=HyTwin_academic.mlappinstall)
 
