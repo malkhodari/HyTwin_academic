@@ -10,11 +10,7 @@ Version: 1.1 Release date: 2024-06-18
 
 ###### Contact: mohanad.alkhodari@rdm.ox.ac.uk, winok.lapidaire@cardiov.ox.ac.uk, turkay.kart@cardiov.ox.ac.uk, abhirup.banerjee@eng.ox.ac.uk, paul.leeson@cardiov.ox.ac.uk
 
-<img src="https://github.com/malkhodari/HyTwin_academic/assets/62998803/4ef672ac-0dcd-4178-bfe6-e68c0f46a601" width="80%" height="80%">
-
-<img src="https://github.com/user-attachments/assets/2024a9b5-eb8e-42b8-a7fe-0c0410e3c7d1" width="80%" height="80%">
-
-<img src="https://github.com/user-attachments/assets/79c34273-944c-440c-b402-f2bafdee5847" width="80%" height="80%">
+<img src="https://github.com/user-attachments/assets/63cc1d40-c792-46ef-8e51-8611b7a76202" width="80%" height="80%">
 
 ## Details on hypertension modelling
 ```
